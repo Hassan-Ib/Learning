@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\bin\Debug\netstandard2.0\Scrape.deps.json
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\bin\Debug\netstandard2.0\Scrape.dll
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\bin\Debug\netstandard2.0\Scrape.pdb
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.dll
+C:\Users\Admin\source\repos\LessonBlankSolution\Scrape\obj\Debug\netstandard2.0\Scrape.pdb

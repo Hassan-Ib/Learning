@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mk5IvHh0K+4DTsU8+YY0gx4eHoN9bk776aCBR7OUjgESgK+ttrc55SOJryri/4FCL7JlvqWuTvdFCIeT6ZNNng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AddingRefrenceFromAssembly\\AddingRefrenceFromAssembly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\22.1.0\\csvhelper.22.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

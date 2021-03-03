@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.exe
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.deps.json
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.runtimeconfig.json
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.dll
+C:\Users\Admin\source\repos\WriteFile\bin\Debug\netcoreapp3.1\WriteFile.pdb
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.dll
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.pdb
+C:\Users\Admin\source\repos\WriteFile\obj\Debug\netcoreapp3.1\WriteFile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.exe
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.deps.json
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.runtimeconfig.json
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.dll
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyCLient.pdb
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyClassLibrary1.dll
+C:\Users\Admin\source\repos\MyCLient\bin\Debug\netcoreapp3.1\MyClassLibrary1.pdb
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.dll
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.pdb
+C:\Users\Admin\source\repos\MyCLient\obj\Debug\netcoreapp3.1\MyCLient.genruntimeconfig.cache

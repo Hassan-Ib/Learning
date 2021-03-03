@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.exe
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.deps.json
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.runtimeconfig.json
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.dll
+C:\Users\Admin\source\repos\SimpleClassess\bin\Debug\netcoreapp3.1\SimpleClassess.pdb
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.dll
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.pdb
+C:\Users\Admin\source\repos\SimpleClassess\obj\Debug\netcoreapp3.1\SimpleClassess.genruntimeconfig.cache

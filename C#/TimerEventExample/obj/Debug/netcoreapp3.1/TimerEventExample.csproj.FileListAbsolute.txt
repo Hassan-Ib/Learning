@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.exe
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.deps.json
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.runtimeconfig.json
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.dll
+C:\Users\Admin\source\repos\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.pdb
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.dll
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.pdb
+C:\Users\Admin\source\repos\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.genruntimeconfig.cache

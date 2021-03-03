@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\MyClassLibrary1\bin\Release\netstandard2.0\MyClassLibrary1.deps.json
+C:\Users\Admin\source\repos\MyClassLibrary1\bin\Release\netstandard2.0\MyClassLibrary1.dll
+C:\Users\Admin\source\repos\MyClassLibrary1\bin\Release\netstandard2.0\MyClassLibrary1.pdb
+C:\Users\Admin\source\repos\MyClassLibrary1\obj\Release\netstandard2.0\MyClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyClassLibrary1\obj\Release\netstandard2.0\MyClassLibrary1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyClassLibrary1\obj\Release\netstandard2.0\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyClassLibrary1\obj\Release\netstandard2.0\MyClassLibrary1.dll
+C:\Users\Admin\source\repos\MyClassLibrary1\obj\Release\netstandard2.0\MyClassLibrary1.pdb

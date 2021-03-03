@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.exe
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.deps.json
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.runtimeconfig.json
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.dll
+C:\Users\Admin\source\repos\Working with collection\bin\Debug\netcoreapp3.1\WorkingWithCollection.pdb
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.dll
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.pdb
+C:\Users\Admin\source\repos\Working with collection\obj\Debug\netcoreapp3.1\WorkingWithCollection.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.exe
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.deps.json
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.json
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.dll
+C:\Users\Admin\source\repos\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.pdb
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.dll
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.pdb
+C:\Users\Admin\source\repos\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.genruntimeconfig.cache

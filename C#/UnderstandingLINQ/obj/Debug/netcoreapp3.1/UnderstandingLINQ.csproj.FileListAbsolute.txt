@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.exe
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.deps.json
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.runtimeconfig.json
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.dll
+C:\Users\Admin\source\repos\UnderstandingLINQ\bin\Debug\netcoreapp3.1\UnderstandingLINQ.pdb
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.dll
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.pdb
+C:\Users\Admin\source\repos\UnderstandingLINQ\obj\Debug\netcoreapp3.1\UnderstandingLINQ.genruntimeconfig.cache

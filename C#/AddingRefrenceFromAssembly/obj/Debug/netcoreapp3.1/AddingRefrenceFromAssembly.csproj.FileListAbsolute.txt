@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.exe
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.deps.json
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.runtimeconfig.json
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.dll
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\bin\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.pdb
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.dll
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.pdb
+C:\Users\Admin\source\repos\AddingRefrenceFromAssembly\obj\Debug\netcoreapp3.1\AddingRefrenceFromAssembly.genruntimeconfig.cache
